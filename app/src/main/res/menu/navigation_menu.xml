@@ -21,6 +21,21 @@
             android:id="@+id/nav_settings"
             android:icon="@android:drawable/ic_menu_preferences"
             android:title="Settings" />
+
+        <item
+            android:id="@+id/nav_details"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Nature Details" />
+
+        <item
+            android:id="@+id/nav_website"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Visit Nature Website" />
+
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="Share via Email" />
     </group>
 
 </menu>
